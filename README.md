@@ -40,6 +40,10 @@ This project uses GitHub Actions to run the automated test suite on every push a
 If tests fail, screenshots are uploaded as workflow artifacts.
 
 ## Additional Modern Tooling
+## Additional Modern Tooling
+
+This repository also includes a simple Playwright example to demonstrate exposure to a
+modern browser automation framework.
 
 This repository also includes a simple Playwright example to demonstrate exposure to a
 modern browser automation framework.
